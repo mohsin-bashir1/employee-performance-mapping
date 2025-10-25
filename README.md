@@ -2,7 +2,8 @@
 
 **Short summary:** SQL-based project to map employee performance, calculate bonuses, and optimize HR queries via views, procedures, and indexing.
 
-![EXPLAIN output](docs/screenshots/hero_image.png)
+![EXPLAIN output](docs/screenshots/employee-performance-mapping
+.jpg)
 
 ## Project highlights
 - **Data:** emp_record_table.csv (19 employees), proj_table.csv (6 projects), data_science_team.csv (13 entries).  
