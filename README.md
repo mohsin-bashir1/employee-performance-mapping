@@ -4,6 +4,8 @@
 
 ![EXPLAIN output](docs/screenshots/employee_performance_mapping.png)
 
+![EXPLAIN output](https://raw.githubusercontent.com/mohsin-bashir1/employee-performance-mapping/main/docs/screenshots/employee_performance_mapping.png)
+
 ## Project highlights
 - **Data:** emp_record_table.csv (19 employees), proj_table.csv (6 projects), data_science_team.csv (13 entries).  
 - **Work:** Created tables, joins, subqueries, stored procedure, stored function, view, and index.  
