@@ -28,4 +28,4 @@ MySQL / SQL, Joins, Subqueries, Views, Stored Procedures, Stored Functions, Inde
 MIT — see LICENSE.
 
 ## Contact
-Mohsin Bashir — [LinkedIn](https://www.linkedin.com/in/your-profile) | Email: your.email@example.com
+Mohsin Bashir — [LinkedIn](https://www.linkedin.com/in/mohsinbashirnajar)
